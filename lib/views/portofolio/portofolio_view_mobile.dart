@@ -7,7 +7,7 @@ class PortofolioViewMobile extends StatelessWidget {
     return ListView(
       children: [
         PortofolioDetails(
-          'portofolio/beetle.jpg',
+          'assets/portofolio/beetle.jpg',
           'CIMB Niaga',
           'https://youtu.be/EYU2t0gaAd0',
         ),
@@ -15,7 +15,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/clouds.jpg',
+          'assets/portofolio/clouds.jpg',
           'CIMB Niaga',
           'https://youtu.be/fVDK5ScvKD0',
         ),
@@ -23,7 +23,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/keppel.jpg',
+          'assets/portofolio/keppel.jpg',
           'Keppel Land Indonesia',
           'https://youtu.be/3VSdGOEbVqI?list=PLprmKu4mjhbtEVPj7tTtkDIrb6KWULJlo',
         ),
@@ -31,7 +31,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/liberty.jpg',
+          'assets/portofolio/liberty.jpg',
           'CIMB Niaga',
           'https://youtu.be/RMUTRzUO9xA',
         ),
@@ -39,7 +39,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/lighthouse.jpg',
+          'assets/portofolio/lighthouse.jpg',
           'Telkomsel',
           'https://youtu.be/SLX6quwnbJw',
         ),
@@ -47,7 +47,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/niaga3.jpg',
+          'assets/portofolio/niaga3.jpg',
           'CIMB Niaga',
           'https://youtu.be/lDsMoat_1yo?list=PLprmKu4mjhbtEVPj7tTtkDIrb6KWULJlo',
         ),
@@ -55,7 +55,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/niaga4.jpg',
+          'assets/portofolio/niaga4.jpg',
           'CIMB Niaga',
           'https://youtu.be/mXYdo90vEp4?list=PLprmKu4mjhbtEVPj7tTtkDIrb6KWULJlo',
         ),
@@ -63,7 +63,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/ocbc.jpg',
+          'assets/portofolio/ocbc.jpg',
           'OCBC Bank',
           'https://youtu.be/4Fhbz3pPtxI',
         ),
@@ -71,7 +71,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/salad.jpg',
+          'assets/portofolio/salad.jpg',
           'Theragan',
           'https://youtu.be/hI9aLlS9pWk',
         ),
@@ -79,7 +79,7 @@ class PortofolioViewMobile extends StatelessWidget {
           height: 10,
         ),
         PortofolioDetails(
-          'portofolio/shutterbug.jpg',
+          'assets/portofolio/shutterbug.jpg',
           'Telkom Indonesia',
           'https://youtu.be/1i47BGx_mcI',
         ),

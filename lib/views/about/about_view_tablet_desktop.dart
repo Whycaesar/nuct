@@ -10,9 +10,11 @@ class AboutViewTabletDesktop extends StatelessWidget {
         // Note: Styles for TextSpans must be explicitly defined.
         // Child text spans will inherit styles from parent
         style: new TextStyle(
-          fontSize: 12.0,
-          color: Colors.black,
+          fontSize: 12,
           height: 1.5,
+          fontWeight: FontWeight.w500,
+          fontFamily: 'Roboto',
+          color: Colors.black,
         ),
 
         children: <TextSpan>[
