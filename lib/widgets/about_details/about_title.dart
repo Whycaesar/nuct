@@ -1,17 +1,16 @@
 import 'package:flutter/material.dart';
 
-class AboutDetails extends StatelessWidget {
-  final String description;
+class AboutTitle extends StatelessWidget {
+  final String title;
 
-  const AboutDetails(this.description);
+  const AboutTitle(this.title);
   @override
   Widget build(BuildContext context) {
     return Text(
-      description,
+      title,
       textAlign: TextAlign.justify,
       style: TextStyle(
-        fontSize: 12,
-        height: 1.5,
+        fontSize: 14,
         fontWeight: FontWeight.w500,
       ),
     );

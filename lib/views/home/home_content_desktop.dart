@@ -11,9 +11,7 @@ class HomeContentDesktop extends StatelessWidget {
         Column(
           children: [
             // NavigationBar(),
-            SizedBox(
-              height: 30,
-            ),
+
             Row(
               children: [
                 Expanded(

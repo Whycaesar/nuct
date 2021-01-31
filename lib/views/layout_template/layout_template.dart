@@ -18,6 +18,9 @@ class LayoutTemplate extends StatelessWidget {
           child: Column(
             children: [
               NavigationBar(),
+              SizedBox(
+                height: 30,
+              ),
               Expanded(
                 child: child,
               ),
